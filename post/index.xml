@@ -20,16 +20,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>博客测试</title>
-      <link>http://kongenuzuryougishiki.github.io/post/%E5%8D%9A%E5%AE%A2%E6%B5%8B%E8%AF%95/</link>
-      <pubDate>Sat, 11 May 2019 16:32:29 +0800</pubDate>
-      
-      <guid>http://kongenuzuryougishiki.github.io/post/%E5%8D%9A%E5%AE%A2%E6%B5%8B%E8%AF%95/</guid>
-      <description>大号日记本兼记事本部署完成 居然成功了，可喜可贺，可喜可贺 （小声）回头研究下Notepad++能不能处理Markdown格式
-还是换了MarkText，编辑起来好像方便了很多的样子，大概。
-插个最近挺喜欢的视频作为测试吧  铃华子实在是太赞啦，连对音乐没什么兴趣的我都知道这个唱的好的说~~</description>
-    </item>
-    
   </channel>
 </rss>
