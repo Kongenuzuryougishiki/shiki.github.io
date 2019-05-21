@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contents on Shiki</title>
+    <link>http://kongenuzuryougishiki.github.io/content/</link>
+    <description>Recent content in Contents on Shiki</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 May 2019 23:16:19 +0800</lastBuildDate>
+    
+	<atom:link href="http://kongenuzuryougishiki.github.io/content/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://kongenuzuryougishiki.github.io/content/about/</link>
+      <pubDate>Tue, 21 May 2019 23:16:19 +0800</pubDate>
+      
+      <guid>http://kongenuzuryougishiki.github.io/content/about/</guid>
+      <description>about界面的博客测试 喵喵喵</description>
+    </item>
+    
+  </channel>
+</rss>
