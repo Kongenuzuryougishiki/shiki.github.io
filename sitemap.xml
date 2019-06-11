@@ -3,12 +3,49 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://kongenuzuryougishiki.github.io/categories/</loc>
+    <loc>https://kongenuzuryougishiki.github.io/post/</loc>
+    <lastmod>2019-06-11T17:56:19+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kongenuzuryougishiki.github.io/</loc>
+    <lastmod>2019-06-11T17:56:19+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kongenuzuryougishiki.github.io/post/%E4%BA%8C%E6%88%98%E7%BE%8E%E5%86%9B%E7%82%AE%E5%85%B5%E8%90%A5%E7%9A%84%E5%A4%8D%E6%9D%82%E6%9E%84%E6%88%90/</loc>
+    <lastmod>2019-06-11T17:56:19+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kongenuzuryougishiki.github.io/post/%E9%9A%8F%E6%9C%BA%E6%80%A7%E7%9A%84%E6%80%9D%E8%80%83/</loc>
+    <lastmod>2019-06-08T18:49:33+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kongenuzuryougishiki.github.io/post/%E6%88%90%E9%95%BF%E7%9A%84%E8%B5%84%E6%BA%90%E5%80%BE%E8%BD%A7/</loc>
+    <lastmod>2019-06-03T00:51:59+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kongenuzuryougishiki.github.io/post/%E5%A4%A7%E6%88%90%E9%9D%A0%E5%91%BD%E5%B0%8F%E6%88%90%E9%9D%A0%E5%8B%A4/</loc>
+    <lastmod>2019-06-02T15:46:22+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kongenuzuryougishiki.github.io/post/%E5%B0%8F%E8%AF%B4%E6%8E%A8%E6%BC%94%E5%8F%8C%E5%B3%B0%E5%B1%B1%E6%88%98%E5%BD%B9/</loc>
+    <lastmod>2019-05-24T14:34:34+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kongenuzuryougishiki.github.io/post/%E4%BA%BA%E7%94%9F%E7%AE%80%E5%8F%B2/</loc>
+    <lastmod>2019-05-24T14:31:44+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kongenuzuryougishiki.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
